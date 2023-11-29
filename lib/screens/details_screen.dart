@@ -136,7 +136,7 @@ class _Overview extends StatelessWidget {
     return Container(
       padding: EdgeInsets.symmetric(horizontal: 30, vertical: 20),
       child: Text(
-        'movie.overview',
+        'Sit amet laborum veniam eiusmod aute exercitation veniam ea ullamco aliquip ea amet ullamco labore.',
         textAlign: TextAlign.justify,
         style: Theme.of(context).textTheme.subtitle1,
       ),
